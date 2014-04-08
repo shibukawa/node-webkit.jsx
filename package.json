@@ -1,6 +1,6 @@
 {
   "name": "node-webkit.jsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node-webkit API wrapper for JSX",
   "scripts": {
     "build": "./node_modules/.bin/grunt build",
@@ -11,9 +11,10 @@
   "keywords": [
     "jsx",
     "altjs",
-    "lib"
+    "lib",
+    "node-webkit"
   ],
-  "main": "./lib/node-webkit.jsx",
+  "main": "./src/node-webkit.jsx",
   "homepage": "https://github.com/shibukawa/node-webkit.jsx",
   "bugs": {
     "url": "https://github.com/shibukawa/node-webkit.jsx/issues"
